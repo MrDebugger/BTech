@@ -11,3 +11,5 @@ Python2 and Python3
 - Download PyDroid 2
 - Install kivy and requests using pip
 - locate and run the app
+# For Windows
+- Visit <a src="https://ijazurrahim.com/BTech"> BTech Page </a> to Download windows exe file
