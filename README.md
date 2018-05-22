@@ -3,7 +3,11 @@ BTech is a Multi Platform GUI Tool that Extract Database Domains and Find its Ad
 # Language Used
 Python2 and Python3
 # Requirement
-- Python2 (recomended) and Python3
+- Python2 (recomended) or Python3
 - requests
 - kivy
 - pydroid2 for android
+# Installation in Android
+- Download PyDroid 2
+- Install kivy and requests using pip
+- locate and run the app
